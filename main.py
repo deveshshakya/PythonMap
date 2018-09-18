@@ -42,4 +42,4 @@ m.add_child(fgv)
 m.add_child(fgp)
 m.add_child(folium.LayerControl())
 
-m.save("Map.html")
+m.save("index.html")
